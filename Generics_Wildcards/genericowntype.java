@@ -1,3 +1,4 @@
+package Generics_Wildcards;
 import java.util.*;
 public class genericowntype {
    public static void main(String[] args){
